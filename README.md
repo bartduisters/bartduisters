@@ -7,9 +7,7 @@
 ## 👷‍♂️ Current jobs 👷‍♂️
 ### Teacher
 
-- I've taught XR development during the day.
-- I teach Fullstack development during the day.
-- I teach Frontend development during the evenings.
+- I teach web development & data at a University of Applied Sciences
 
 ### Web & Unity developer
 
